@@ -3,4 +3,4 @@
 <h2> Glad to see you here </h2>
 <br>
 <br>
-<h2> Changes 43... deployed through jenkins to docker host using ansible and dockerhub with autocheck</h2>
+<h2> Changes 5... deployed through jenkins to k8s claster using ansible with autocheck</h2>
